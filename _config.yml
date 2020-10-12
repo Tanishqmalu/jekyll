@@ -21,13 +21,11 @@
 title: My stories your views
 email: tanishq.malu.18@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Prepared with love by Tanishq Malu
-  
-  I love playing sports and gardening.
+  Prepared with love by Tanishq Malu.
 baseurl: "jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: tanishqmalu
+github_username:  Tanishqmalu
 
 # Build settings
 theme: minima
