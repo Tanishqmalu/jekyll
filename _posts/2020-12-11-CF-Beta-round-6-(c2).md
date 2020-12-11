@@ -1,4 +1,3 @@
-
 ---
 layout: code
 title:  "CF Beta round 6 (c2)"
