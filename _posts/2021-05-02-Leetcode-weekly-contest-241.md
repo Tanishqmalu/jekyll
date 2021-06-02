@@ -11,9 +11,11 @@ About the contest:-
 "SOLVED"
 
 1.Sum of All Subset XOR Totals:- Tricky question which required mathematical deduction to find the answer. Brute force will result in tle.
+
 Tags:- Maths Easy
 
 2.Minimum Number of Swaps to Make the Binary String Alternating:- Implementation type question which require case based solving paradigm. Easy question.
+
 Tags:- Strings Implementation Medium
 
 3.Finding Pairs With a Certain Sum:- Pretty nice question for Hashmap. Store frequency of each number and for each a[i] see if mp[sum-a[i]] exists...
